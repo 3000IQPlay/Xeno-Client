@@ -15,7 +15,7 @@ Download the pre-compiled jar from the releases tab.
     * Offhand
     * Surround    
   
-  # Combat   
+  # Movement   
     * Fly
     * ElytraFly
     * NoFall
@@ -23,6 +23,17 @@ Download the pre-compiled jar from the releases tab.
     * Step
     * Reverse Step
     * Sprint
-    * Velocity   
+    * Velocity
+  
+  # Render   
+    * ESP
+    * Chams
+    * Fullbright
+    * Hole ESP
+    * Item Physics
+    * Nametags
+    * No Render
+    * Tracers
+    * Storage ESP
   
 </details>
