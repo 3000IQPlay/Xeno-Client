@@ -10,6 +10,13 @@ Download the pre-compiled jar from the releases tab.
   
   <details>
   <summary>Combat</summary>
+    
+    * Aura
+    * AutoArmour
+    * Blink
+    * Offhand
+    * Surround
+    
   </details>
   
 </details>
