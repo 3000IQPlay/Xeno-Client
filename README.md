@@ -19,42 +19,42 @@ The GUI has 3 themes. Xeno (default), Plain, and Future. This can be changed thr
   <summary>Click to expand!</summary>
   
   # Combat
-    - Aura
-    - AutoArmour
-    - Blink
-    - Offhand
+    - Aura (Quite a few settings, probably powerful with a good config?)
+    - AutoArmour (Has a delay setting, but isn't that good)
+    - Blink (It works.)
+    - Offhand (5 modes, Totem, Gapple, Crystal, Pearl, Chorus)
     - Surround (awful, use a different client)   
   
   # Movement   
-    - ElytraFly
-    - Fly
-    - Jetpack
-    - NoFall
-    - Reverse Step
-    - Sprint
-    - Step
-    - Velocity
+    - ElytraFly (Should work on most servers.)
+    - Fly (Only the vanilla fly, will most likely get you kicked, use NoFall with it)
+    - Jetpack (Will probably get you kicked)
+    - NoFall (Should work)
+    - Reverse Step (It works.)
+    - Sprint (It works. IDK why I haven't added a Omni mode yet lmao)
+    - Step (Works on servers that allow step.)
+    - Velocity (It works.)
   
   # Render   
-    - Chams
-    - ESP
-    - Fullbright
-    - Hole ESP
-    - Item Physics
-    - Nametags
-    - No Render
-    - Storage ESP
-    - Tracers
+    - Chams (Kinda broken, only fills the entities when you cannot see them)
+    - ESP (3 modes - Outline, Box, and Glow & has outline Item ESP)
+    - Fullbright (Works)
+    - Hole ESP (Good)
+    - Item Physics (Good)
+    - Nametags (Good)
+    - No Render (Good)
+    - Storage ESP (2 modes - Outline and Box)
+    - Tracers (Good)
   
   # Player   
-    - Fast Break
-    - Fast Place
-    - Anti AFK
+    - Fast Break (Works)
+    - Fast Place (Works)
+    - Anti AFK (Works)
   
   # Misc
-    - AutoEZ
-    - MCF (Middle Click Friend)
-    - Suffix
+    - AutoEZ (Customize message in the settings)
+    - MCF (Middle Click Friend, works)
+    - Suffix (Customize message in the settings)
   
   # HUD
     - Armour
