@@ -9,14 +9,24 @@ Download the pre-compiled jar from the releases tab.
   <summary>Click to expand!</summary>
   
   <details>
-  <summary>Combat</summary>
-    
+  <summary>Combat</summary>    
     * Aura
     * AutoArmour
     * Blink
     * Offhand
-    * Surround
-    
+    * Surround    
+  </details>
+  
+  <details>
+  <summary>Movement</summary>    
+    * Fly
+    * ElytraFly
+    * NoFall
+    * Jetpack
+    * Step
+    * Reverse Step
+    * Sprint
+    * Velocity   
   </details>
   
 </details>
