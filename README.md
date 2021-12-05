@@ -15,8 +15,7 @@ Download the pre-compiled jar from the releases tab.
     * Offhand
     * Surround    
   
-  <details>
-  <summary>Movement</summary>    
+  # Combat   
     * Fly
     * ElytraFly
     * NoFall
@@ -25,6 +24,5 @@ Download the pre-compiled jar from the releases tab.
     * Reverse Step
     * Sprint
     * Velocity   
-  </details>
   
 </details>
