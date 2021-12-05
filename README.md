@@ -9,9 +9,7 @@ Download the pre-compiled jar from the releases tab.
   <summary>Click to expand!</summary>
   
   <details>
-  <summary>Click to expand!</summary>
-  
-  ## Combat
+  <summary>Combat</summary>
   </details>
   
 </details>
