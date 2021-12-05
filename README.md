@@ -8,9 +8,13 @@ Download the pre-compiled jar from the releases tab.
 <details>
   <summary>Click to expand!</summary>
   
-  * Aura
-  * AutoArmour
-  * Blink
-  * Offhand
-  * Surround
+  Combat
+  <details>
+  <summary>Click to expand!</summary>
+    * Aura
+    * AutoArmour
+    * Blink
+    * Offhand
+    * Surround
+  </details>
 </details>
