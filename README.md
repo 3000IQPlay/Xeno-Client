@@ -8,7 +8,7 @@ Download the pre-compiled jar from the releases tab.
 <details>
   <summary>Click to expand!</summary>
   
-    # Combat
+  # Combat
     * Aura
     * AutoArmour
     * Blink
