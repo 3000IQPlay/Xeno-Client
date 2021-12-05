@@ -4,8 +4,7 @@ A Minecraft Forge 1.12.2 Utility Mod intended for Anarchy Servers.
 # Installation
 Download the pre-compiled jar from the releases tab.
 
-# Modules
-# Combat
+## Modules
 <details>
   <summary>Click to expand!</summary>
   
