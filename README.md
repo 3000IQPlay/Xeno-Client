@@ -14,7 +14,7 @@ Client is made by SoldierMC, Gamefighteriron, Wolfsurge, and Mathew101Q. Some mo
 The GUI has 3 themes. Xeno (default), Plain, and Future. This can be changed through the ClickGUI module's settings.
 <details>
   <summary>Xeno Theme</summary>
-![alt text](https://github.com/XenoClientDevelopment/Xeno-Resources/blob/main/xenotheme.png?raw=true)
+![xenotheme](https://github.com/XenoClientDevelopment/Xeno-Resources/blob/main/xenotheme.png?raw=false)
 </details>
 
 ## Modules
