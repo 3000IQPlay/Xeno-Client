@@ -16,24 +16,46 @@ Download the pre-compiled jar from the releases tab.
     * Surround    
   
   # Movement   
-    * Fly
     * ElytraFly
-    * NoFall
+    * Fly
     * Jetpack
-    * Step
+    * NoFall
     * Reverse Step
     * Sprint
+    * Step
     * Velocity
   
   # Render   
-    * ESP
     * Chams
+    * ESP
     * Fullbright
     * Hole ESP
     * Item Physics
     * Nametags
     * No Render
-    * Tracers
     * Storage ESP
+    * Tracers
+  
+  # Player   
+    * Fast Break
+    * Fast Place
+    * Anti AFK
+  
+  # Misc
+    * AutoEZ
+    * MCF (Middle Click Friend)
+    * Suffix
+  
+  # HUD
+    * Armour
+    * Array List
+    * Client Name / Watermark
+    * Coordinates
+    * FPS
+    * Inventory
+    * Ping
+    * Totems
+    * TPS
+    * Welcomer
   
 </details>
