@@ -10,6 +10,9 @@ to keep it closed source or not, and so the source is private.
 ## Credits
 Client is made by SoldierMC, Gamefighteriron, Wolfsurge, and Mathew101Q. Some modules are partially skidded, but not fully. We plan to remove this soon.
 
+## Discord
+You can join [here](https://discord.gg/YPeVBdZMQA) if you want.
+
 ## ClickGUI
 The GUI has 3 themes. Xeno (default), Plain, and Future. This can be changed through the ClickGUI module's settings.
 ![xenotheme](https://github.com/XenoClientDevelopment/Xeno-Resources/blob/main/xenotheme.png?raw=true)
