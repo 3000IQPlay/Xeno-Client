@@ -9,53 +9,53 @@ Download the pre-compiled jar from the releases tab.
   <summary>Click to expand!</summary>
   
   # Combat
-    * Aura
-    * AutoArmour
-    * Blink
-    * Offhand
-    * Surround    
+    - Aura
+    - AutoArmour
+    - Blink
+    - Offhand
+    - Surround    
   
   # Movement   
-    * ElytraFly
-    * Fly
-    * Jetpack
-    * NoFall
-    * Reverse Step
-    * Sprint
-    * Step
-    * Velocity
+    - ElytraFly
+    - Fly
+    - Jetpack
+    - NoFall
+    - Reverse Step
+    - Sprint
+    - Step
+    - Velocity
   
   # Render   
-    * Chams
-    * ESP
-    * Fullbright
-    * Hole ESP
-    * Item Physics
-    * Nametags
-    * No Render
-    * Storage ESP
-    * Tracers
+    - Chams
+    - ESP
+    - Fullbright
+    - Hole ESP
+    - Item Physics
+    - Nametags
+    - No Render
+    - Storage ESP
+    - Tracers
   
   # Player   
-    * Fast Break
-    * Fast Place
-    * Anti AFK
+    - Fast Break
+    - Fast Place
+    - Anti AFK
   
   # Misc
-    * AutoEZ
-    * MCF (Middle Click Friend)
-    * Suffix
+    - AutoEZ
+    - MCF (Middle Click Friend)
+    - Suffix
   
   # HUD
-    * Armour
-    * Array List
-    * Client Name / Watermark
-    * Coordinates
-    * FPS
-    * Inventory
-    * Ping
-    * Totems
-    * TPS
-    * Welcomer
+    - Armour
+    - Array List
+    - Client Name / Watermark
+    - Coordinates
+    - FPS
+    - Inventory
+    - Ping
+    - Totems
+    - TPS
+    - Welcomer
   
 </details>
