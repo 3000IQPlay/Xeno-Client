@@ -8,7 +8,7 @@ Download the pre-compiled jar from the releases tab. It is safe, but if you don'
 to keep it closed source or not, and so the source is private.
 
 ## Credits
-Client is made by SoldierMC, Gamefighteriron, Wolfsurge, and Mathew101Q. Some modules are partially skidded, but not fully. 
+Client is made by SoldierMC, Gamefighteriron, Wolfsurge, and Mathew101Q. Some modules are partially skidded, but not fully. We plan to remove this soon.
 
 ## ClickGUI
 The GUI has 3 themes. Xeno (default), Plain, and Future. This can be changed through the ClickGUI module's settings.
