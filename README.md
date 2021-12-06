@@ -1,7 +1,10 @@
 [![GitHub All Releases](https://img.shields.io/github/downloads/XenoClientDevelopment/Xeno-Client/total.svg)](https://github.com/XenoClientDevelopment/Xeno-Client/releases/)
 
 ## Xeno Client
-A Minecraft Forge 1.12.2 Utility Mod intended for Anarchy Servers. This client is currently weak in it's PVP modules, but hopefully makes up for that in render modules. It is currently the only client I (Wolfsurge) could find with an Outline StorageESP, apart from Future (and my old client).
+A Minecraft Forge 1.12.2 Utility Mod intended for Anarchy Servers. 
+This client is currently weak in it's PVP modules, but hopefully makes up for that in render modules. 
+It is currently the only client I (Wolfsurge) could find with an Outline StorageESP, apart from Future (and my old client).
+It's fairly new, so the download counter is low (but it is safe!)
 
 ## Installation
 Download the pre-compiled jar from the releases tab. It is safe, but if you don't trust us, just don't use the client. The dev team was arguing about whether
