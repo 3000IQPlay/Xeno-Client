@@ -3,6 +3,7 @@
 ## Xeno Client
 A Minecraft Forge 1.12.2 Utility Mod intended for Anarchy Servers. 
 This client is currently weak in it's PVP modules, but hopefully makes up for that in render modules. 
+I would use this as a secondary client, and use it especially for its render modules.
 It is currently the only client I (Wolfsurge) could find with an Outline StorageESP, apart from Future (and my old client).
 It's fairly new, so the download counter is low (but it is safe!)
 
@@ -25,6 +26,18 @@ You can join [here](https://discord.gg/YPeVBdZMQA) if you want.
 ## ClickGUI
 The GUI has 3 themes. Xeno (default), Plain, and Future. This can be changed through the ClickGUI module's settings.
 ![xenotheme](https://github.com/XenoClientDevelopment/Xeno-Resources/blob/main/xenotheme.png?raw=true)
+
+## Features
+<details>
+  <summary>Click to expand!</summary>
+
+  - Scrollable ClickGUI
+  - 28 Modules
+  - 10 HUD Modules
+  - 5 commands
+  - 3 GUI Themes
+  - Custom Main Menu
+</details>
 
 ## Modules
 <details>
