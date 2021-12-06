@@ -8,7 +8,13 @@ Download the pre-compiled jar from the releases tab. It is safe, but if you don'
 to keep it closed source or not, and so the source is private.
 
 ## Credits
-Client is made by SoldierMC, Gamefighteriron, Wolfsurge, and Mathew101Q. Some modules are partially skidded, but not fully. We plan to remove this soon.
+Client Devs: <<Wolfsurge>> <<Mathew101Q>> <<q3m>>
+ 
+Texture Pack Editor/Helper: <<Fyre>>
+  
+Beta Tester/Helpers: <<HAV0X>> <<SoldierMC>> <<IdentifyDelay>> <<NGILDQS3>> 
+  
+"Some modules are partially skidded, but not fully. We plan to remove this soon"
 
 ## Discord
 You can join [here](https://discord.gg/YPeVBdZMQA) if you want.
