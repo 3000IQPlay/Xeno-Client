@@ -41,11 +41,11 @@ The GUI has 3 themes. Xeno (default), Plain, and Future. This can be changed thr
   # Render   
     - Chams                 (Kinda broken, only fills the entities when you cannot see them)
     - ESP                   (3 modes - Outline, Box, and Glow & has outline Item ESP)
-    - Fullbright            (Works)
-    - Hole ESP              (Good)
+    - Fullbright            (Good, two modes - Gamma and Effect)
+    - Hole ESP              (A bunch of settings)
     - Item Physics          (Good)
     - Nametags              (Good)
-    - No Render             (Good)
+    - No Render             (Quite a few settings.)
     - Storage ESP           (2 modes - Outline and Box)
     - Tracers               (Good)
   
