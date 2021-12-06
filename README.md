@@ -8,11 +8,11 @@ Download the pre-compiled jar from the releases tab. It is safe, but if you don'
 to keep it closed source or not, and so the source is private.
 
 ## Credits
-Client Devs: <Wolfsurge> <Mathew101Q> <q3m>
+Client Devs: Wolfsurge / Mathew101Q / q3m
  
-Texture Pack Editor/Helper: <Fyre>
+Texture Pack Editor/Helper: Fyre
   
-Beta Tester/Helpers: <HAV0X> <SoldierMC> <IdentifyDelay> <NGILDQS3>>
+Beta Tester/Helpers: HAV0X - SoldierMC - IdentifyDelay - NGILDQS
   
 "Some modules are partially skidded, but not fully. We plan to remove this soon"
 
