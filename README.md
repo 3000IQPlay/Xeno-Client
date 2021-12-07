@@ -26,10 +26,12 @@ to keep it closed source or not, and so the source is private.
 
 ## Credits:
 Client Devs: Wolfsurge / Mathew101Q / q3m
- 
-Texture Pack Editor/Helper: Fyre
+
+Who Started the client: Fyre /  SoldierMC
   
-Beta Tester/Helpers: HAV0X - SoldierMC - IdentifyDelay - NGILDQS
+Texture Pack Editor: Fyre 
+  
+Beta Tester/Helpers: HAV0X - SoldierMC - IdentifyDelay - NGILDQS - Fyre - Mathew101Q - Wolfsurge - q3m
   
 "Some modules are partially skidded, but not fully. We plan to remove this soon"
 
