@@ -13,15 +13,10 @@ to keep it closed source or not, and so the source is private.
 
 ## Usage:
 <details>
-  <summary>Click to expand!</summary>
-  # Usage
-  
+  <summary>Click to expand!</summary>  
  - Download the .jar file from releases
-  
- - Put the .jar in your mods folder by pressing Windows + R and typing in %appdata% open the .minecraft/mods folder.
-  
+ - Put the .jar in your mods folder by pressing Windows + R and typing in %appdata% open the .minecraft/mods folder.  
  - Press RSHIFT to open the ClickGUI
-  
 </details>        
 
 ## Credits:
@@ -36,8 +31,7 @@ Beta Tester/Helpers: HAV0X - SoldierMC - IdentifyDelay - NGILDQS - Fyre - Mathew
 "Some modules are partially skidded, but not fully. We plan to remove this soon"
 
 ## Discord:
-Need Help Join Us in Our Discord Click
-[Here](https://discord.gg/YPeVBdZMQA)
+If you need help with anything in the client, click [here](https://discord.gg/YPeVBdZMQA)
 
 ## ClickGUI
 The GUI has 3 themes. Xeno (default), Plain, and Future. This can be changed through the ClickGUI module's settings.
