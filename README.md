@@ -27,6 +27,7 @@ Need Help Join Us in Our Discord Click
 ## ClickGUI
 The GUI has 3 themes. Xeno (default), Plain, and Future. This can be changed through the ClickGUI module's settings.
 ![xenotheme](https://github.com/XenoClientDevelopment/Xeno-Resources/blob/main/xenotheme.png?raw=true)
+![xenotheme](https://media.discordapp.net/attachments/902262371513401354/917358876502929428/unknown.png?width=784&height=415)
 
 ## Features
 <details>
