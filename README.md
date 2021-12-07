@@ -1,6 +1,6 @@
 [![GitHub All Releases](https://img.shields.io/github/downloads/XenoClientDevelopment/Xeno-Client/total.svg)](https://github.com/XenoClientDevelopment/Xeno-Client/releases/)
 
-## Xeno Client
+## Xeno Client:
 A Minecraft Forge 1.12.2 Utility Mod intended for Anarchy Servers. 
 This client is currently weak in it's PVP modules, but hopefully makes up for that in render modules. 
 I would use this as a secondary client, and use it especially for its render modules.
@@ -11,7 +11,16 @@ It's fairly new, so the download counter is low (but it is safe!)
 Download the pre-compiled jar from the releases tab. It is safe, but if you don't trust us, just don't use the client. The dev team was arguing about whether
 to keep it closed source or not, and so the source is private.
 
-## Credits
+## Usage:
+<details>
+  <summary>Click to expand!</summary>
+  # Usage
+ - Download the .jar file from releases
+ - Put the .jar in your mods folder by pressing Windows + R and typing in %appdata% open the .minecraft/mods folder.
+ -Press RSHIFT to open the ClickGUI
+        
+
+## Credits:
 Client Devs: Wolfsurge / Mathew101Q / q3m
  
 Texture Pack Editor/Helper: Fyre
@@ -20,7 +29,7 @@ Beta Tester/Helpers: HAV0X - SoldierMC - IdentifyDelay - NGILDQS
   
 "Some modules are partially skidded, but not fully. We plan to remove this soon"
 
-## Discord
+## Discord:
 Need Help Join Us in Our Discord Click
 [Here](https://discord.gg/YPeVBdZMQA)
 
