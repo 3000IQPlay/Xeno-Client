@@ -18,7 +18,7 @@ to keep it closed source or not, and so the source is private.
  - Download the .jar file from releases
  - Put the .jar in your mods folder by pressing Windows + R and typing in %appdata% open the .minecraft/mods folder.
  -Press RSHIFT to open the ClickGUI
-        
+</details>        
 
 ## Credits:
 Client Devs: Wolfsurge / Mathew101Q / q3m
