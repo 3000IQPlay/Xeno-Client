@@ -109,7 +109,7 @@ The GUI has 3 themes. Xeno (default), Plain, and Future. This can be changed thr
 <details>
   <summary>Click to expand!</summary>
   
-    Format - [name] [syntax] [description]
+  Format - [name] [syntax] [description]
   
   * Bind [bind <set|clear> <module> <key>] [Bind module keybinds to keys]
   * Elytra [elytra key <key>] [Set the keybind for toggling the elytra flying state]
