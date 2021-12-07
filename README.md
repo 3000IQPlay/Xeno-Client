@@ -21,7 +21,8 @@ Beta Tester/Helpers: HAV0X - SoldierMC - IdentifyDelay - NGILDQS
 "Some modules are partially skidded, but not fully. We plan to remove this soon"
 
 ## Discord
-You can join [here](https://discord.gg/YPeVBdZMQA) if you want.
+Need Help Join Us in Our Discord
+[here](https://discord.gg/YPeVBdZMQA)
 
 ## ClickGUI
 The GUI has 3 themes. Xeno (default), Plain, and Future. This can be changed through the ClickGUI module's settings.
