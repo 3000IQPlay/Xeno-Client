@@ -27,7 +27,7 @@ to keep it closed source or not, and so the source is private.
 ## Credits:
 Client Devs: Wolfsurge / Mathew101Q / q3m
 
-Who Started the client: Fyre /  SoldierMC
+The One Who Started The Client: Fyre /  SoldierMC
   
 Texture Pack Editor: Fyre 
   
