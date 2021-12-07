@@ -61,47 +61,47 @@ The GUI has 3 themes. Xeno (default), Plain, and Future. This can be changed thr
   - Surround              (awful, use a different client)   
   
   # Movement   
-    - ElytraFly             (Should work on most servers.)
-    - Fly                   (Only the vanilla fly, will most likely get you kicked, use NoFall with it)
-    - Jetpack               (Will probably get you kicked)
-    - NoFall                (Should work)
-    - Reverse Step          (It works.)
-    - Sprint                (It works. IDK why I haven't added a Omni mode yet lmao)
-    - Step                  (Works on servers that allow step.)
-    - Velocity              (It works.)
+  - ElytraFly             (Should work on most servers.)
+  - Fly                   (Only the vanilla fly, will most likely get you kicked, use NoFall with it)
+  - Jetpack               (Will probably get you kicked)
+  - NoFall                (Should work)
+  - Reverse Step          (It works.)
+  - Sprint                (It works. IDK why I haven't added a Omni mode yet lmao)
+  - Step                  (Works on servers that allow step.)
+  - Velocity              (It works.)
   
   # Render   
-    - Chams                 (Kinda broken, only fills the entities when you cannot see them)
-    - ESP                   (3 modes - Outline, Box, and Glow & has outline Item ESP)
-    - Fullbright            (Good, two modes - Gamma and Effect)
-    - Hole ESP              (A bunch of settings)
-    - Item Physics          (Good)
-    - Nametags              (Good)
-    - No Render             (Quite a few settings.)
-    - Storage ESP           (2 modes - Outline and Box)
-    - Tracers               (Good)
+  - Chams                 (Kinda broken, only fills the entities when you cannot see them)
+  - ESP                   (3 modes - Outline, Box, and Glow & has outline Item ESP)
+  - Fullbright            (Good, two modes - Gamma and Effect)
+  - Hole ESP              (A bunch of settings)
+  - Item Physics          (Good)
+  - Nametags              (Good)
+  - No Render             (Quite a few settings.)
+  - Storage ESP           (2 modes - Outline and Box)
+  - Tracers               (Good)
   
   # Player   
-    - Fast Break            (Works)
-    - Fast Place            (Works)
-    - Anti AFK              (Works)
+  - Fast Break            (Works)
+  - Fast Place            (Works)
+  - Anti AFK              (Works)
   
   # Misc
-    - AutoEZ                (Customize message in the settings)
-    - MCF                   (Middle Click Friend, works)
-    - Suffix                (Customize message in the settings)
+  - AutoEZ                (Customize message in the settings)
+  - MCF                   (Middle Click Friend, works)
+  - Suffix                (Customize message in the settings)
   
   # HUD
-    - Armour
-    - Array List
-    - Client Name / Watermark
-    - Coordinates
-    - FPS
-    - Inventory
-    - Ping
-    - Totems
-    - TPS
-    - Welcomer
+  - Armour
+  - Array List
+  - Client Name / Watermark
+  - Coordinates
+  - FPS
+  - Inventory
+  - Ping
+  - Totems
+  - TPS
+  - Welcomer
   
 </details>
 
