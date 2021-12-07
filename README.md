@@ -54,11 +54,11 @@ The GUI has 3 themes. Xeno (default), Plain, and Future. This can be changed thr
   <summary>Click to expand!</summary>
   
   # Combat
-    - Aura                  (Quite a few settings, probably powerful with a good config?)
-    - AutoArmour            (Has a delay setting, but isn't that good)
-    - Blink                 (It works.)
-    - Offhand               (5 modes, Totem, Gapple, Crystal, Pearl, Chorus)
-    - Surround              (awful, use a different client)   
+  - Aura                  (Quite a few settings, probably powerful with a good config?)
+  - AutoArmour            (Has a delay setting, but isn't that good)
+  - Blink                 (It works.)
+  - Offhand               (5 modes, Totem, Gapple, Crystal, Pearl, Chorus)
+  - Surround              (awful, use a different client)   
   
   # Movement   
     - ElytraFly             (Should work on most servers.)
