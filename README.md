@@ -15,6 +15,7 @@ to keep it closed source or not, and so the source is private.
 <details>
   <summary>Click to expand!</summary>
   # Usage
+  
  - Download the .jar file from releases
   
  - Put the .jar in your mods folder by pressing Windows + R and typing in %appdata% open the .minecraft/mods folder.
