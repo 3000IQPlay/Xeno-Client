@@ -1,8 +1,8 @@
 [![GitHub All Releases](https://img.shields.io/github/downloads/XenoClientDevelopment/Xeno-Client/total.svg)](https://github.com/XenoClientDevelopment/Xeno-Client/releases/)
 
-![xenotheme](https://cdn.discordapp.com/attachments/901443220389646369/917855640704143380/text-1638904225098.png)
 
-## Xeno Client:
+## ![xenotheme](https://cdn.discordapp.com/attachments/901443220389646369/917855640704143380/text-1638904225098.png)
+
 A Minecraft Forge 1.12.2 Utility Mod intended for Anarchy Servers. 
 This client is currently weak in it's PVP modules, but hopefully makes up for that in render modules. 
 I would use this as a secondary client, and use it especially for its render modules.
