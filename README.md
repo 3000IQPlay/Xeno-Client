@@ -1,6 +1,6 @@
 [![GitHub All Releases](https://img.shields.io/github/downloads/XenoClientDevelopment/Xeno-Client/total.svg)](https://github.com/XenoClientDevelopment/Xeno-Client/releases/)
 
-https://cdn.discordapp.com/attachments/901443220389646369/917855640704143380/text-1638904225098.png
+![xenotheme](https://cdn.discordapp.com/attachments/901443220389646369/917855640704143380/text-1638904225098.png)
 
 ## Xeno Client:
 A Minecraft Forge 1.12.2 Utility Mod intended for Anarchy Servers. 
