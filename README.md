@@ -34,6 +34,86 @@ Beta Tester/Helpers: HAV0X - SoldierMC - IdentifyDelay - NGILDQS - Fyre - Mathew
 ## Discord:
 If you need help with anything in the client, click [here](https://discord.gg/YPeVBdZMQA) to join the discord.
 
+## Latest Release Notes
+
+<details>
+    <summary>Click to expand!</summary>
+
+## Modules Added
+<details>
+  <summary>Click to expand!</summary>
+
+    IceSpeed
+    - Lets you control the ice slipperiness, with one setting (speed)
+
+    MobOwner
+    - Lets you see who owns tamed entities
+
+    AutoCrystal
+	- Places and breaks End Crystals for you. Lots of settings, works decently.
+
+    NoPush
+	- Stops entities pushing you around.
+    
+    FakePlayer
+    - Spawns a client-side fake player, useful for configurating combat modules.
+
+    CameraClip
+    - Lets your third-person camera clip through blocks.
+
+    HoleFill
+    - Fills holes around enemy players. Works okay.
+
+    ShulkerPreview
+    - Shows the contents of shulker boxes in your inventory.
+
+	FastXP
+	- Throws XP bottles fast.
+
+    AutoXP
+	- Automatically repairs armour with XP bottles.
+    
+</details>
+
+## Modules Updated
+<details>
+  <summary>Click to expand!</summary>
+  
+    Sprint
+	- Added a mode setting with two modes - Legit and Omni
+
+	Velocity
+	- Added five settings: Velocity PKT, Horizontal, Vertical, Explosion, and Fishhook
+  
+    ElytraFly
+	- Added a Activate Key setting. Press this to toggle the elytra flying state when in midair.
+
+    ArrayList
+	- No longer a draggable HUD module, instead open the settings to change its position.
+    
+    Offhand
+    - Added more settings, such as TotemSwap.
+
+    HoleESP
+    - Added a new mode, and fixed a bug.
+</details>
+
+## Other Changes / Bug Fixes
+<details>
+  <summary>Click to expand!</summary>
+
+    GUI
+	- Fixed a weird bug when opening buttons (they move up)
+	- Added a CButtonOutline option, when the buttons are closed, it still displays an outline around them.
+	- Fixed a bug where the module buttons would spasm when trying to move further than they were meant to.
+
+	HUD
+	- Added a blur option to the HUD config screen. Access from the 'HUD' module.
+    - Improved ArrayList
+
+</details>
+</details>
+
 ## ClickGUI
 The GUI has 3 themes. Xeno (default), Plain, and Future. This can be changed through the ClickGUI module's settings.
 ![xenotheme](https://github.com/XenoClientDevelopment/Xeno-Resources/blob/main/xenotheme.png?raw=true)
