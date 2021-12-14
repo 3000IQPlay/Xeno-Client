@@ -140,16 +140,22 @@ The GUI has 3 themes. Xeno (default), Plain, and Future. This can be changed thr
   - Blink                 (It works.)
   - Offhand               (5 modes, Totem, Gapple, Crystal, Pearl, Chorus)
   - Surround              (awful, use a different client)   
-  
+  - AutoCrystal		  (OK, alright with a good config)
+  - HoleFill		  (Meh. It works.)
+  - FastXP		  (Works.)
+  - AutoXP		  (Should work fine.)	
+	
   # Movement   
   - ElytraFly             (Should work on most servers.)
   - Fly                   (Only the vanilla fly, will most likely get you kicked, use NoFall with it)
   - Jetpack               (Will probably get you kicked)
   - NoFall                (Should work)
   - Reverse Step          (It works.)
-  - Sprint                (It works. IDK why I haven't added a Omni mode yet lmao)
+  - Sprint                (Good.)
   - Step                  (Works on servers that allow step.)
   - Velocity              (It works.)
+  - IceSpeed 		  (Decent.)
+  - NoPush 		  (Works well.)
   
   # Render   
   - Chams                 (Decent)
@@ -161,7 +167,10 @@ The GUI has 3 themes. Xeno (default), Plain, and Future. This can be changed thr
   - No Render             (Quite a few settings.)
   - Storage ESP           (2 modes - Outline and Box)
   - Tracers               (Good)
-  
+  - MobOwner 		  (Works, has a custom font option.)
+  - CameraClip		  (Works)
+  - ShulkerPreview 	  (Looks good and works properly.)
+	
   # Player   
   - Fast Break            (Works)
   - Fast Place            (Works)
@@ -171,7 +180,8 @@ The GUI has 3 themes. Xeno (default), Plain, and Future. This can be changed thr
   - AutoEZ                (Customize message in the settings)
   - MCF                   (Middle Click Friend, works)
   - Suffix                (Customize message in the settings)
-  
+  - FakePlayer		  (Works)
+	
   # HUD
   - Armour
   - Array List
