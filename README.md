@@ -123,11 +123,12 @@ The GUI has 3 themes. Xeno (default), Plain, and Future. This can be changed thr
   <summary>Click to expand!</summary>
 
   - Scrollable ClickGUI
-  - 38 Modules
+  - 38 Non Modules
   - 10 HUD Modules
   - 5 commands
   - 3 GUI Themes
   - Custom Main Menu
+
 </details>
 
 ## Modules
