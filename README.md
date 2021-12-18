@@ -21,7 +21,8 @@ to keep it closed source or not, and so the source is private.
 </details>        
 
 ## Credits:
-Client Devs: Wolfsurge / Mathew101Q / q3m
+Client Devs: Wolfsurge / Mathew101Q
+
 
 Project starters: Fyre - SoldierMC
   
